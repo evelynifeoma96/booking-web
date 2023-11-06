@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+.wrapper {
+    background-color: rgb(13, 71, 13);
+    height: 100vh;
+}
+.container {
+    background-color: white;
+    margin: 0 auto;
+    padding: 10px;
+}
+#pay-stack {
+    width: 50%;
+    border-radius: 1px solid #d6d4d4;
+}
+.t-head {
+    width: 300px;
+}
+#pay-stack h2 {
+    color: black;
+    font-weight: bold;
+}
+
+/* .table-box {
+    margin: 50px auto;
+}
+.table-row {
+    width: 60%;
+    display: table;
+    margin: 10px auto;
+    font-family: sans-serif;
+    background: transparent;
+    padding: 12px 0;
+    color: #555;
+    font-size: 13px;
+    box-shadow: 0 1px 4px 0 rgba(0,0,50,0.3);
+}
+.table-cell {
+    display: table-cell;
+    width: 30%;
+    padding: 4px;
+    border-right: 1px solid #d6d4d4;
+    vertical-align: middle;
+    padding: 10px;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+} */
